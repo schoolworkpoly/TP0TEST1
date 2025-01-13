@@ -3,6 +3,7 @@ import math
 pi = math.pi
 rayon = 4
 aire = pi * (rayon**2)
+print(aire)
 
 #TODO Ajoutez une ligne qui affichera votre nom et prénom à la fin
 
